@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Health Tech-AI Clinic**
 
-- 🌱 I’m currently learning **React JS , UI ,UX**
+- 🌱 I’m currently learning **React JS **
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **Python,HTML,CSS,JavaScript & Generative AI**
+- 💬 Ask me about **Python,HTML,CSS,JavaScript,MongoDB,SQL & Generative AI**
 
 - 📫 How to reach me **canshika010@gmail.com**
 
