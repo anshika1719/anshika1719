@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn5.vectorstock.com/i/1000x1000/57/89/front-end-development-banner-concept-vector-8955789.jpg)](https://github.com/anshika1719/anshika1719)
+[![MasterHead](https://e7.pngegg.com/pngimages/262/104/png-clipart-website-development-web-design-web-application-web-developer-world-wide-web-web-design-search-engine-optimization-web-design.png)](https://github.com/anshika1719/anshika1719)
 <h1 align="center">Hi 👋, I'm anshika1719</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
