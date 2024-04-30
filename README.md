@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@canshika010" target="blank"><img src="https://img.shields.io/twitter/follow/@canshika010?logo=twitter&style=for-the-badge" alt="@canshika010" /></a> </p>
 
-- 🔭 I’m currently working on **Health Tech-AI Clinic**
+- 🔭 I’m currently working on **Connectify**
 
 - 🌱 I’m currently learning **React JS **
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **canshika010@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Administrator/Desktop/Bria/Final_DE_resume_updated1.pdf](file:///C:/Users/Administrator/Desktop/Bria/Final_DE_resume_updated1.pdf)
+- 📄 Know about my experiences [file:///D:/Certificate/resume_me.pdf](file:///C:/Users/Administrator/Desktop/Bria/Final_DE_resume_updated1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
