@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **Python,HTML,CSS,JavaScript,Node Js, Exress, Rest APIs ,MongoDB,SQL & Generative AI**
+- 💬 Ask me about **Python,HTML,CSS,JavaScript,Node Js, Express, Rest APIs ,MongoDB,SQL & Generative AI**
 
 - 📫 How to reach me **canshika010@gmail.com**
 
